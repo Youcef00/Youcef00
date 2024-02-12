@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youcef00&label=Profile%20views&color=0ea9b4&style=flat" alt="youcef00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youcef00" alt="youcef00" /></a> </p>
-
 - 🔭 I’m currently working with **Decathlon**
 
 - 🤝 I’m looking to collaborate on **open source projects**
